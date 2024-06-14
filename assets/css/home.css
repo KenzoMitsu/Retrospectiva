@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+:root {
+    
+}
+
+.titulo_home {
+    display: flex;
+
+}
+
+.d-flex {
+    display: flex;
+}
+
+.center{
+    align-items: center;
+    justify-content: center;
+}
+
